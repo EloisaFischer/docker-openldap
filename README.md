@@ -1,2 +1,2 @@
 # docker-openldap
-For openLDAP deployment
+For openLDAP deployment used for NFVI
